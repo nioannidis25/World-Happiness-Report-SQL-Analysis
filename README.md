@@ -29,9 +29,9 @@ This project analyzes changes in country happiness scores using SQL, based on th
 
 - Countries with **minimal changes year-over-year** were highlighted as socially and economically **stable**, potentially ideal for long-term policy modeling.
 
-##  Files
-- `happiness_comparison.sql`: Main SQL script with all CTEs and SELECT blocks
-- `top10improvements.csv`, `top10declines.csv`, `fullrank.csv`: exported resultsets
+## Dataset Source
+
+- [World Happiness Report 2024 - Kaggle (original version)](https://www.kaggle.com/datasets/sazidthe1/world-happiness-report-2024)
 
 
 
