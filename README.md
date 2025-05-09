@@ -1,4 +1,4 @@
-# World-Happiness-Report-SQL-Analysis
+# World-Happiness-Report_SQL-Project
 
 This project analyzes changes in country happiness scores using SQL, based on the World Happiness Report 2024 data.
 
