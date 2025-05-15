@@ -11,6 +11,7 @@ This project analyzes changes in country happiness scores using SQL, based on th
 - CTEs
 - Window Functions 
 - Multi-source JOINs & yearly comparison logic
+- Subqueries
 
 ## Key Insights
 
